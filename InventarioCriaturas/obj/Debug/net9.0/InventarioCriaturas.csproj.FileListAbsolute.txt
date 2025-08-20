@@ -1,0 +1,15 @@
+/media/alek/outro/RepositóriosVisualCode/desafiosGft/InventarioCriaturas/obj/Debug/net9.0/InventarioCriaturas.GeneratedMSBuildEditorConfig.editorconfig
+/media/alek/outro/RepositóriosVisualCode/desafiosGft/InventarioCriaturas/obj/Debug/net9.0/InventarioCriaturas.AssemblyInfoInputs.cache
+/media/alek/outro/RepositóriosVisualCode/desafiosGft/InventarioCriaturas/obj/Debug/net9.0/InventarioCriaturas.AssemblyInfo.cs
+/media/alek/outro/RepositóriosVisualCode/desafiosGft/InventarioCriaturas/obj/Debug/net9.0/InventarioCriaturas.csproj.CoreCompileInputs.cache
+/media/alek/outro/RepositóriosVisualCode/desafiosGft/InventarioCriaturas/obj/Debug/net9.0/InventarioCriaturas.sourcelink.json
+/media/alek/outro/RepositóriosVisualCode/desafiosGft/InventarioCriaturas/bin/Debug/net9.0/InventarioCriaturas
+/media/alek/outro/RepositóriosVisualCode/desafiosGft/InventarioCriaturas/bin/Debug/net9.0/InventarioCriaturas.deps.json
+/media/alek/outro/RepositóriosVisualCode/desafiosGft/InventarioCriaturas/bin/Debug/net9.0/InventarioCriaturas.runtimeconfig.json
+/media/alek/outro/RepositóriosVisualCode/desafiosGft/InventarioCriaturas/bin/Debug/net9.0/InventarioCriaturas.dll
+/media/alek/outro/RepositóriosVisualCode/desafiosGft/InventarioCriaturas/bin/Debug/net9.0/InventarioCriaturas.pdb
+/media/alek/outro/RepositóriosVisualCode/desafiosGft/InventarioCriaturas/obj/Debug/net9.0/InventarioCriaturas.dll
+/media/alek/outro/RepositóriosVisualCode/desafiosGft/InventarioCriaturas/obj/Debug/net9.0/refint/InventarioCriaturas.dll
+/media/alek/outro/RepositóriosVisualCode/desafiosGft/InventarioCriaturas/obj/Debug/net9.0/InventarioCriaturas.pdb
+/media/alek/outro/RepositóriosVisualCode/desafiosGft/InventarioCriaturas/obj/Debug/net9.0/InventarioCriaturas.genruntimeconfig.cache
+/media/alek/outro/RepositóriosVisualCode/desafiosGft/InventarioCriaturas/obj/Debug/net9.0/ref/InventarioCriaturas.dll
