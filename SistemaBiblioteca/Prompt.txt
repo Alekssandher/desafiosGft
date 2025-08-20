@@ -1,0 +1,16 @@
+Olá ChatGPT! Preciso criar um sistema de biblioteca em C# (ou Java) usando POO. 
+O sistema deve ter:
+
+1. Uma classe Livro com Titulo, Autor e AnoPublicacao.
+2. Uma classe Biblioteca que armazene uma lista de livros e permita:
+   - Adicionar livros
+   - Listar todos os livros
+   - Buscar livros por autor
+   - (Opcional) Remover livros
+3. Um programa principal que permita ao usuário interagir via console.
+
+Gostaria que você:
+- Me ajudasse a estruturar o projeto (pastas, arquivos e classes)
+- Sugerisse como organizar métodos e propriedades
+- Tratasse entradas inválidas ou nulas
+- Mostrasse um fluxo simples de interação com menu no console
